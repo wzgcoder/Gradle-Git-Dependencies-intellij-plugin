@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wzgcoder.gradlegitdependenciesintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wzgcoder.gradlegitdependenciesintellijplugin.MyBundle
 
 class MyApplicationService {
 
